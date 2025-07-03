@@ -51,7 +51,7 @@ jobs:
     # Update Github
     - name: Commit the changes
       run: |
-        git config --global user.email "<>"
+        git config --global user.email "mishraprerna465@gmail.com"
         git config --global user.name "GitHub Actions Bot"
         git checkout main
         git add deploy/deployment.yaml
