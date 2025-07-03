@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: devops-demo
-        image: prerna408/devops-demo:v1
+        image: prerna307/devops-demo:v20250703122027
         ports:
         - containerPort: 80
